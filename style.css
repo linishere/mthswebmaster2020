@@ -1,0 +1,111 @@
+body {
+  font-size: 18px;
+  background-color: #dcdbd8;
+  font-family: 'Cairo';
+}
+
+.navbar {
+  background-color: #731c13;
+  padding: 20px;
+}
+
+.navbar-item {
+  color: white;
+}
+
+.footerColor {
+  background-color: #731c13;
+}
+
+.tabs ul {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+h1 {
+  color: #183040;
+}
+
+.tsa_historycap {
+  background-image: url('images/tsa/awards/Awards2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  padding: 20px;
+}
+
+.card-title {
+  color: #183040;
+}
+
+.tsa_comcap {
+  background-image: url('images/tsa/tsa_main/CompMain.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.funcap {
+  background-image: url('images/tsa/tsa_main/FundraisingMain.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.off_backcolor{
+  background-color: #183040;
+}
+
+.navbar-dropdown {
+  background-color: #731c13;
+}
+
+.cp {
+  font-size: 25px;
+  background-color: #2b232f;
+   padding: 10px;
+}
+
+
+.ied {
+  margin: 5px;
+}
+
+.ohcolor {
+  background-color: #183040;
+  color: white;
+}
+
+.IEDcap {
+  background-image: url('images/stem/programs/IEDProgram.jpg');
+  background-repeat: no-repeat;;
+  background-size: cover;
+}
+
+.card-header-title {
+  color: #183040;
+}
+
+.aerocap {
+  background-image: url('images/stem/programs/AerospaceProgram.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.biocap {
+  background-image: url('images/stem/programs/BiotechProgram.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cscap {
+  background-image: url('images/stem/programs/CSProgram.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.engcap {
+  background-image: url('images/stem/eng12/EDD2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
